@@ -35,4 +35,4 @@ def jogar_adivinhacao():
 # Iniciar o jogo
 if __name__ == "__main__":
     jogar_adivinhacao()
-99
+49
